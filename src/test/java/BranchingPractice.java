@@ -5,10 +5,10 @@ public class BranchingPractice {
 
         //fdsfs
 
-        //fsdfs
+        //fs
 
 
-        //gdfgd
+        //gdf
         //gdfgd
         //gdfgwe
         //gfdg
